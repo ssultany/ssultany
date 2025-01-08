@@ -40,14 +40,14 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ssultany/ssultany/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ssultany/count.svg?"  />
+</div>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ssultany/count.svg?"  />
+  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Q4Z24ycnlrcjkxY2MyaDI3bm9taWtwZW1naGZ5ZWtvcGJjemJoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oFYKw5OTZBZzVONpUh/giphy-downsized-large.gif"  />
 </div>
 
 ###
