@@ -33,12 +33,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/ssultany/ssultany/output/snake.svg" alt="Snake animation" />
 
@@ -46,12 +48,6 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/ssultany/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Q4Z24ycnlrcjkxY2MyaDI3bm9taWtwZW1naGZ5ZWtvcGJjemJoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oFYKw5OTZBZzVONpUh/giphy-downsized-large.gif"  />
 </div>
 
 ###
